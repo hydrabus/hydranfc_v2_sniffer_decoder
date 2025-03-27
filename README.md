@@ -9,6 +9,8 @@ For more details on all features see https://hydrabus.com/hydranfc-v2-sniffer-de
 
 See also GitHub Wiki https://github.com/hydrabus/hydranfc_v2_sniffer_decoder/wiki#hydranfc-v2-sniffer-decoder
 
+HydraNFC v2: Real-Time NFC Sniffing & Cracking Powerhouse Video by Penthertz https://www.youtube.com/watch?v=2Cf_BwMrgbk
+
 ## License
 
 This project is licensed under the GNU General Public License v2.0 - see the [LICENSE](LICENSE) file for details.
